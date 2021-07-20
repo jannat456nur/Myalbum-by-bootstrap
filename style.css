@@ -1,0 +1,19 @@
+.myalbum-btn-warning{
+    background-color: #22ce93;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 9px;
+    margin-bottom: 5px;
+}
+footer{
+    background-color: #f7f7f7;
+}
+.myalbum-card-footer{
+    border: none;
+}
+.myalbum-bg-primary{
+    background-color: #f7f7f7;
+}
+.footer-a{
+    text-decoration: none;
+}
